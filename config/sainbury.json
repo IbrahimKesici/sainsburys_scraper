@@ -1,0 +1,30 @@
+{
+    "base_url": "https://www.sainsburys.co.uk/shop/CategorySeeAllView?",
+    "page_multiplier": 120,
+    "params": 
+        {
+            "catalogId=":10241,
+            "beginIndex=":0,
+            "pageSize=":120,
+            "langId=":44,
+            "storeId=":10151,
+            "categoryId=": ""
+        },
+    "categories":
+        {
+            "Meat & fish": 13343,
+            "Fruit & vegetables": 12518,
+            "Dairy, eggs & chilled": 428866,
+            "Bakery": 12320,
+            "Frozen": 218831,
+            "Food cupboard": 12422,
+            "Drinks": 12192,
+            "Household": 12564,
+            "Beauty and Cosmetics": 448352,
+            "Toiletries and health": 12448,
+            "Homeware and outdoor": 281806,
+            "Babe and toddler": 11651,
+            "Pet": 12298
+
+        }
+}
